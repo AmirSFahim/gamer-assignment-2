@@ -287,8 +287,7 @@ nav li a {
 }
 
 .career-section {
-    padding-bottom: 20px;
-    padding: 20px;
+    padding: 20px 5px 10px 70px;
     color: #FFF; 
     background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
 }
