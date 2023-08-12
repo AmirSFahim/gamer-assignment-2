@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main p {
+    color: #534C64;
+}
+
+#heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+    height: 100px;
+
+}
+#menu ul {
+    display: flex;
+    margin: -18px 118px;
+
+}
+.Follow-section {
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    width: 170px;
+    height: 24px;
+    text-align: center;
+    padding-top: 5px;
+    
+    
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.logo h5{
+    color: #0B0223;
+}
+
+#logo1 {
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+
+
+nav li {
+    list-style: none;
+    margin-right: 30px;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+
+
+#goat-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 200px;
+    background-image: url(./images/Group\ 14.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+
+
+
+#goat-section img {
+    width: 500px;
+    height: 500px;
+
+}
+
+#play-like {
+    color: #0B0223;
+    font-family: Work Sans;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 10px;
+
+}
+
+#Goat {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 4rem;
+    font-weight: 800;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.btn1 {
+    color: #FFF;
+    border-radius: 48px;
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    border: none;
+    padding: 21px 40px;
+    gap: 10px;
+}
+
+.btn2 {
+    color: #FFF;
+    border-radius: 48px;
+    background: #4EC5F7;
+    border: none;
+    padding: 21px 40px;
+    margin: 10px;
+
+}
+
+#gamer-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%,
+            rgba(255, 66, 165, 0.03) 100%);
+
+}
+
+#gamer-section-img img {
+    width: 500px;
+    height: 500px;
+}
+
+#gamers {
+    text-align: right; 
+     margin-right: 237px;
+}
+
+#gamer-section-img {
+    margin: 10px 130px;
+}
+
+
+
+#we-are-gamer {
+    font-size: 2rem;
+    font-weight: 700;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#gamers-description {
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 1rem;
+    width: 300px;
+}
+
